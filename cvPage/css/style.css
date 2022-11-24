@@ -1,0 +1,87 @@
+div
+{
+    border-radius: 5px;
+    background-color: aliceblue;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color: skyblue;
+    margin-bottom: 20px;
+    }
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: 'Times New Roman', Times, serif;
+	color: rgb(7, 68, 180);
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 15px;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(7, 68, 180);
+    
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: whitesmoke;
+    }
+    
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: skyblue;
+    }
+    
+h3
+{
+    text-decoration: underline;
+    }
+table
+{
+    border: 1px dashed #0f04a7;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #292523;
+    }
+
+#course-name
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: #040216;
+    }
+
+#heading
+{
+    font-weight:bold;
+    
+    }
+     input {
+        box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+    }
